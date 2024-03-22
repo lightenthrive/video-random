@@ -1,3 +1,22 @@
+.git/
+.vscode/
+__pycache__/
+build/
+data/book.db*
+data/kw.json
+data/last_book.db
+dist/
+out/
+sikulix/*.jar
+sikulix/jdk*
+专业配音/
+备份/
+视频/
+*.log
+*.spec
+*.exe
+*.lnk
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
